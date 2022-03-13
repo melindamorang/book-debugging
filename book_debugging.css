@@ -1,7 +1,19 @@
 body {
     padding-top: 4.5rem;
+    color: #114f45;
+}
+
+nav {
+    background-color: #114f45;
 }
 
 span.booktitle {
     font-style: italic;
+}
+
+a,
+a:visited,
+a:active,
+a:hover {
+    color:#259b87;
 }
