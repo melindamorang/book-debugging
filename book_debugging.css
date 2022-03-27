@@ -17,3 +17,11 @@ a:active,
 a:hover {
     color:#259b87;
 }
+
+h1 {
+    font-family: Consolas, "Lucida Console", "Courier New", monospace;
+}
+
+.navbar {
+    font-family: Consolas, "Lucida Console", "Courier New", monospace;
+}
